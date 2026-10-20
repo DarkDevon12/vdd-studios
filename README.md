@@ -1,77 +1,28 @@
-# 🎨 VDD Studios - O Suporte Ideal para sua Empresa
+# VDD Studio
 
-![Banner VDD Studios](images/vddstudios-banner.png)
+Site da **VDD Studio**: hardware e desenvolvimento em Barretos-SP.
 
----
+![VDD Studio](docs/screenshot.png)
 
-## 🚀 Sobre Nós
+## Serviços
 
-Somos uma empresa jovem e dinâmica no setor de **design digital**, dedicada a criar soluções web inovadoras e visualmente impactantes.  
-Embora estejamos começando nossa trajetória recentemente, nossa paixão por design e tecnologia nos impulsiona a entregar resultados de alta qualidade e excelência para nossos clientes.
+- **Hardware & suporte:** formatação, instalação de programas, montagem de PC, manutenção e upgrade
+- **Desenvolvimento:** sites e sistemas sob medida
 
----
+## Estrutura
 
-## 💼 O Que Nós Fazemos?
+```
+index.html          página única
+assets/css/style.css
+assets/js/main.js   menu mobile, animações e formulário → WhatsApp
+assets/img/         logo (SVG) e avatar
+docs/               screenshot e imagem de referência
+```
 
-- **Web Design:** Criamos sites personalizados que capturam a essência da sua marca e oferecem uma experiência de usuário intuitiva e envolvente.  
-- **Artes Visuais:** Desenvolvemos uma variedade de visuais impactantes, desde banners e gráficos para o seu site até conteúdos criativos e atraentes para redes sociais como Instagram.  
-- **Posts Publicitários:** Elaboramos campanhas visuais que chamam a atenção e impulsionam suas estratégias de marketing.
+Não precisa de build nem de dependências: é só abrir o `index.html` no navegador ou publicar a pasta no GitHub Pages.
 
----
+## Contato
 
-## 🛠️ Nossos Recursos & Ferramentas
-
-Para garantir a mais alta qualidade em nossos projetos, utilizamos ferramentas e tecnologias avançadas:
-
-| Ferramenta             | Descrição                                             |
-|-----------------------|-------------------------------------------------------|
-| **Visual Studio Code** | Editor de código versátil para HTML, CSS e JS.        |
-| **Adobe Photoshop CS6**| Edição e criação de imagens com qualidade profissional.|
-| **Canva Pro**          | Design gráfico rápido e moderno para conteúdos visuais.|
-
----
-
-## 🎯 Nossa Estratégia
-
-Nossa estratégia combina:
-
-- Análise de mercado  
-- Compreensão do público-alvo  
-- Soluções criativas com as melhores ferramentas  
-
-Priorizamos testes e ajustes contínuos para garantir que nossos projetos maximizem impacto e eficácia.
-
----
-
-## 📞 Contatos
-
-**Barretos-SP**  
-📧 vddstudios@outlook.com  
-📱 +55 17 98111-7587  
-⏰ Seg-Sex: 12:00 - 19:00 hrs
-
----
-
-## 🌐 Links Rápidos
-
-- [Home](#)
-- [Sobre nós](#)
-- [Serviços](#)
-- [Contatos](#)
-
----
-
-## 💬 Fique Conectado!
-
-Seja o primeiro a saber das nossas novidades, atualizações e ofertas especiais!  
-
-Digite seu número e entre em contato com a gente para receber notícias exclusivas.
-
----
-
-© 2025. All Rights Reserved. Design por **VDD STUDIOS**
-
----
-
-*Obrigado por visitar nosso repositório! Fique à vontade para sugerir melhorias ou fazer perguntas.*
-
+- WhatsApp: +55 17 98111-7587
+- E-mail: vddstudios@outlook.com
+- Instagram: [@vddstudio](https://www.instagram.com/vddstudio/)
